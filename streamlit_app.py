@@ -4,6 +4,6 @@ streamlit.title('My Parents new healthy diner')
 
 streamlit.header('Breakfast Menu')
 
-streanlit.text('Oatmeal and resin Bread')
-streanlit.text('Kale Spinach and Rocket Smoothie')
-streanlit.text('Hard Boiled Free range Egg')
+streamlit.text('Oatmeal and resin Bread')
+streamlit.text('Kale Spinach and Rocket Smoothie')
+streamlit.text('Hard Boiled Free range Egg')
